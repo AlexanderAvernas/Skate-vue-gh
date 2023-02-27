@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "NEWBIE 1080",
+    "price": "1599SEK",
+    "img": "../src/assets/img/skateboardSKELETON.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "2",
+    "name": "HAWK-360",
+    "price": "499SEK",
+    "img": "../src/assets/img/skateboardSMILIE.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "3",
+    "name": "BAM-MAGERA 99",
+    "price": "1199SEK",
+    "img": "../src/assets/img/skateboardUP.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "4",
+    "name": "HAPPY 560",
+    "price": "1499SEK",
+    "img": "../src/assets/img/skateboardWorld.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "5",
+    "name": "CC 123",
+    "price": "399SEK",
+    "img": "../src/assets/img/skateboardUP.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "6",
+    "name": "COOL 12",
+    "price": "1999SEK",
+    "img": "../src/assets/img/skateboardSMILIE.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "7",
+    "name": "HAWK-360",
+    "price": "499SEK",
+    "img": "../src/assets/img/skateboardSMILIE.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "8",
+    "name": "HAWK-360",
+    "price": "499SEK",
+    "img": "../src/assets/img/skateboardSMILIE.jpg",
+    "quantity": "0"
+  }
+]
