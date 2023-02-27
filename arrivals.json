@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "name": "Longboard QX",
+    "img": "../src/assets/img/newArrivalLongboard.jpg",
+    "quantity": "0"
+  },
+  {
+    "id": "2",
+    "name": "New mad-shoe",
+    "img": "../src/assets/img/newarrivalshoe2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Xkr Converse",
+    "img": "../src/assets/img/newArrivalsShoes.jpg",
+    "quantity": "0"
+  }
+]
