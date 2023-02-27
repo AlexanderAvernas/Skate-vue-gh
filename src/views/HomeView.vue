@@ -1,9 +1,11 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import HeroImage from "../components/HeroImage.vue";
+import ProductImage from "../components/ProductImage.vue";
+import FormUser from "../components/FormUser.vue";
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <HeroImage />
+  <ProductImage />
+  <FormUser />
 </template>
