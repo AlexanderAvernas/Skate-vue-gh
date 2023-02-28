@@ -9,7 +9,7 @@
     <div class="card">
       <div class="products-shop" v-for="product in products" :key="product.id">
         <div class="card-body">
-          <img src="../assets/img/skateboardUP.jpg" class="card-img-top" alt="Product Image" />
+          <img :src="product.img" class="card-img-top" alt="Product Image" />
           <h5 class="card-title">{{ product.name }}</h5>
           <h6 class="card-text">{{ product.price }}</h6>
         </div>
